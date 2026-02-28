@@ -169,8 +169,6 @@ Stroke_Risk_Confusion_Matrix.png
 
 Stroke_Risk_Prediction_Graph.png
 
-Prediction_Output.png
-
 ---
 
 ## Tools Used
